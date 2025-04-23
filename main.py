@@ -3,7 +3,7 @@ import requests
 from docx import Document
 
 # Твоят ElevenLabs API ключ
-API_KEY = 'YOUR_API_KEY'
+API_KEY = 'sk_a35f2cb7ccc06ffaa5e3fb11daf3e5ed93ccfb51659ce549'
 VOICE_ID = 'Milena'
 
 # Папка с Word файлове
